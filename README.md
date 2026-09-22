@@ -1,2 +1,2 @@
-# sadhana---demo
+# sadhana-demo
 This is my first repository
